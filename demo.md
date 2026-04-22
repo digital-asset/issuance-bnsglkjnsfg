@@ -35,9 +35,9 @@
 
 | Entity           | Details                                                           | Utility UI version |
 | :--------------- | :---------------------------------------------------------------- | ------------------ |
-| Registrar/Issuer | https://validator-pool-001-utility.utility.cnu.testnet.da-int.net | 0.11.2             |
-| Investor1        | https://validator-pool-001-utility.utility.cnu.testnet.da-int.net | 0.11.2             |
-| Investor2        | https://validator-pool-001-utility.utility.cnu.testnet.da-int.net | 0.11.2             |
+| Registrar/Issuer | https://validator-pool-001-utility.utility.cnu.testnet.da-int.net | 0.12.2             |
+| Investor1        | https://validator-pool-001-utility.utility.cnu.testnet.da-int.net | 0.12.2             |
+| Investor2        | https://validator-pool-001-utility.utility.cnu.testnet.da-int.net | 0.12.2             |
 
 ## PartyIDs
 
